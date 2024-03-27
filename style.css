@@ -213,7 +213,7 @@ justify-content: left;
 .landing-img{
     height: 400px;
     width: 100%;
-    background-image: url(amazone\ home.jpg);
+    background-image: url(images/amazone\ home.webp);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -245,6 +245,7 @@ justify-content: left;
     margin-bottom: 15px;
     background-color: white;
     padding: 10px 15px 10px;
+    background-repeat: no-repeat;
 }
 
 .box-img{
@@ -252,6 +253,7 @@ justify-content: left;
     margin-top: 10px;
     margin-bottom: 15px;
     background-position: center;
+    background-size: contain;
 
 }
 
